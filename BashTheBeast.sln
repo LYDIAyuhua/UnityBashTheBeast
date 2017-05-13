@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BashTheBeast", "Assembly-CSharp.csproj", "{789FC6D9-4898-2AD7-41A9-981753AEB11F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{789FC6D9-4898-2AD7-41A9-981753AEB11F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{789FC6D9-4898-2AD7-41A9-981753AEB11F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{789FC6D9-4898-2AD7-41A9-981753AEB11F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{789FC6D9-4898-2AD7-41A9-981753AEB11F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
